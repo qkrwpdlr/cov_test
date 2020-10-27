@@ -13,7 +13,7 @@ cffi==1.13.2
 chardet==3.0.4
 Click==7.0
 contours==0.0.2
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 decorator==4.3.0
 defusedxml==0.6.0
